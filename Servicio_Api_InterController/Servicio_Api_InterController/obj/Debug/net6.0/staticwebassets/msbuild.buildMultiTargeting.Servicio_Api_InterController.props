@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Servicio_Api_InterController.props" />
+</Project>

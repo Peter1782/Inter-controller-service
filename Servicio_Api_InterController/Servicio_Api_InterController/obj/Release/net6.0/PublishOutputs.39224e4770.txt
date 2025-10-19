@@ -1,0 +1,11 @@
+C:\Users\Andres_Javier\source\repos\Servicio_Api_InterController\Servicio_Api_InterController\obj\Release\net6.0\PubTmp\Out\Servicio_Api_InterController.exe
+C:\Users\Andres_Javier\source\repos\Servicio_Api_InterController\Servicio_Api_InterController\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Andres_Javier\source\repos\Servicio_Api_InterController\Servicio_Api_InterController\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Andres_Javier\source\repos\Servicio_Api_InterController\Servicio_Api_InterController\obj\Release\net6.0\PubTmp\Out\Servicio_Api_InterController.dll
+C:\Users\Andres_Javier\source\repos\Servicio_Api_InterController\Servicio_Api_InterController\obj\Release\net6.0\PubTmp\Out\Servicio_Api_InterController.deps.json
+C:\Users\Andres_Javier\source\repos\Servicio_Api_InterController\Servicio_Api_InterController\obj\Release\net6.0\PubTmp\Out\Servicio_Api_InterController.runtimeconfig.json
+C:\Users\Andres_Javier\source\repos\Servicio_Api_InterController\Servicio_Api_InterController\obj\Release\net6.0\PubTmp\Out\Servicio_Api_InterController.pdb
+C:\Users\Andres_Javier\source\repos\Servicio_Api_InterController\Servicio_Api_InterController\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Andres_Javier\source\repos\Servicio_Api_InterController\Servicio_Api_InterController\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andres_Javier\source\repos\Servicio_Api_InterController\Servicio_Api_InterController\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andres_Javier\source\repos\Servicio_Api_InterController\Servicio_Api_InterController\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

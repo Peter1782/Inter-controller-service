@@ -1,0 +1,5 @@
+C:\Users\Andres_Javier\Source\repos\Servicio_Exe\appsettings.Development.json
+C:\Users\Andres_Javier\Source\repos\Servicio_Exe\appsettings.json
+C:\Users\Andres_Javier\Source\repos\Servicio_Exe\Servicio_Api_InterController.pdb
+C:\Users\Andres_Javier\Source\repos\Servicio_Exe\aspnetcorev2_inprocess.dll
+C:\Users\Andres_Javier\Source\repos\Servicio_Exe\Servicio_Api_InterController.exe
